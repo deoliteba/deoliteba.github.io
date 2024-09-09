@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deoliteba.github.io/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/app/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/assets/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/css/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/includes/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/item/sitemap.html.gz
+Sitemap: https://deoliteba.github.io/src/sitemap.html.gz
